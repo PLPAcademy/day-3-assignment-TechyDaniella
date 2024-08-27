@@ -13,14 +13,14 @@ D) Run Dart Doctor
 
 
 2. Which command verifies the Dart installation on macOS?
-
+3. 
 A) dart --install
 B) dart --check
 C) dart --verify
 D) dart --version--- ANSWER
 
 
-3. What is the next step after downloading and extracting the Flutter SDK on Linux?
+4. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
 A) Install Homebrew
 B) Update your PATH---- ANSWER
